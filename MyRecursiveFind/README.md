@@ -1,4 +1,4 @@
-#ENG
+# ENG
 
 Operating systems and environments - individual practical work №1
 Aleksandr Dubeykovsky
@@ -9,7 +9,7 @@ Aleksandr Dubeykovsky
 Example on how to execute script: $ bash osis_ipr1_Dubeykovsky.sh file1.txt file7.txt file4.txt
 Search will start from directory where the script is stored
 
-#RU
+# RU
 
 ОСИС ИПР 1
 Александр Дубейковский - зачётная книжка 75350046, группа 893551, Вариант 6
